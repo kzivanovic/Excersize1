@@ -1,0 +1,22 @@
+{
+  "name": "excersize1",
+  "version": "1.0.0",
+  "description": "Author Katarina Zivanovic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kzivanovic/Excersize1.git"
+  },
+  "author": "Katarina Zivanovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kzivanovic/Excersize1/issues"
+  },
+  "homepage": "https://github.com/kzivanovic/Excersize1#readme",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
