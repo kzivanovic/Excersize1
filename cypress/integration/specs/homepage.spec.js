@@ -4,14 +4,12 @@ import {HomePage} from "/Users/katarinazivanovic/Desktop/QA learning/Excersize1/
 describe("First Test suite", () => {
     const home =  new HomePage();
     it("Visit page", () => {
-        
         home.navigateTo()  
         
 
     })
     it ("Check page title", () => {
-        
-        home.getTitle()
+         home.getTitle()
        
 
     })
